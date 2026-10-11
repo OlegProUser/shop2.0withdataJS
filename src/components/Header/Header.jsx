@@ -4,7 +4,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { GrSearch } from 'react-icons/gr';
 import { FiShoppingCart, FiUser } from 'react-icons/fi';
 import { getCart, getUser } from '../../lib/storage';
-import styles from './Header.module.css';
+import styles from './header.module.css';
 import logo from '../../assets/logo.png';
 
 export default function Header({ search, onSearchChange, showSearch = false }) {

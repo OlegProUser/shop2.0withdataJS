@@ -11,7 +11,7 @@ import {
 } from '../../lib/storage';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
-import styles from './Cart.module.css';
+import styles from './cart.module.css';
 
 function formatPrice(value, currency = '₽') {
   const num = Number(value);
