@@ -1,0 +1,19 @@
+.foot_row{
+	max-width: 1240px;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	min-height: 50px;
+	margin-top: 10px;
+}
+.foot_when{
+	line-height: 30px;
+}
+@media (max-width:800px){
+	.foot_row{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+}
