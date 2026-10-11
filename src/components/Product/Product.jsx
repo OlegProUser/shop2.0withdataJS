@@ -4,7 +4,7 @@ import { GrSearch } from 'react-icons/gr';
 import { FiShoppingCart, FiUser } from 'react-icons/fi';
 import { products as productsData } from './product.data.js';
 import Footer from '../Footer/Footer';
-import styles from './Product.module.css';
+import styles from './product.module.css';
 import Header from '../Header/Header'
 const CART_KEY = 'cart';
 
