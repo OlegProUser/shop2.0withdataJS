@@ -24,7 +24,7 @@ export const products = [
       'Год': '2023',
     },
     images: [
-      'https://avatars.avto.ru/get-autoru-vos/6209445/d953dfdfbcd3222f999089b665c8a294/1200x900',
+      '',
       '/images/bmw-x5-2.jpg',
       '/images/bmw-x5-3.jpg',
     ],
@@ -55,7 +55,7 @@ export const products = [
       'Год': '2024',
     },
     images: [
-      'https://searchthisweb.com/wallpaper/lamborghini-huracán_3840x2160_c4fga.jpeg',
+      '/images/lambhueevo.jpg',
       '/images/huracan-2.jpg',
       '/images/huracan-3.jpg',
     ],
@@ -148,7 +148,7 @@ export const products = [
       'Год': '2023',
     },
     images: [
-      'https://sportishka.com/uploads/posts/2022-11/1667542158_10-sportishka-com-p-folksvagen-fasad-oboi-10.jpg',
+      '/images/cattouch.webp',
       '/images/passat-2.jpg',
       '/images/passat-3.jpg',
     ],
@@ -179,7 +179,7 @@ export const products = [
       'Год': '2024',
     },
     images: [
-      'https://stk-briket.ru/wp-content/uploads/5/6/0/560ca1924070576c6ccd7bf7d9925608.webp',
+      '/images/rs3.jpg',
       '/images/rs3-2.jpg',
       '/images/rs3-3.jpg',
     ],
@@ -210,7 +210,7 @@ export const products = [
       'Год': '2024',
     },
     images: [
-      'http://audi.carwallpapers.ru/audi/rs7-sportback/2019/Audi-RS7-Sportback-2019-3840x2160-037.jpg',
+      '/images/rs7.jpg',
       '/images/rs7-2.jpg',
       '/images/rs7-3.jpg',
     ],
@@ -365,7 +365,7 @@ export const products = [
       'Год': '2024',
     },
     images: [
-      'https://static.tildacdn.com/tild3362-3834-4533-b931-303465623935/2018-audi-tt_1006161.jpg',
+      '/images/a755.jpg',
       '/images/tt-2.jpg',
       '/images/tt-3.jpg',
     ],
