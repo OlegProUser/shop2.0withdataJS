@@ -24,9 +24,9 @@ export const products = [
       'Год': '2023',
     },
     images: [
-      '',
-      '/images/bmw-x5-2.jpg',
-      '/images/bmw-x5-3.jpg',
+      '/images/bmwx5.jpg',
+      '/images/bmwx52.webp',
+      '/images/bmwx53.webp',
     ],
     tags: ['Кроссовер', 'Полный привод', 'Премиум'],
   },
@@ -395,9 +395,8 @@ export const products = [
       'КПП': '7-ст. S tronic',
       'Год': '2024',
     },
-    images: [
+    images: ['/images/audia7.jpg',
       'https://w.forfun.com/fetch/ce/ce8fa207e032240090d3846e219d398b.jpeg?w=1470&r=0.5625',
-      '/images/a7-2.jpg',
       '/images/a7-3.jpg',
     ],
     tags: ['Фастбек', 'Полный привод', 'Бизнес-класс'],
